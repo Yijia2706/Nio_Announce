@@ -1,7 +1,7 @@
 
 {
   "id": "1",
-  "title": "Nio 公告",
-  "message": "欢迎使用 Nio！这是第一条测试公告。",
-  "level": "normal"
+  "title": "Nio Announcement",
+  "message": "First Test Message",
+  "level": "important"
 }
