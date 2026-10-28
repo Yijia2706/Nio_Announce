@@ -1,7 +1,7 @@
 
 {
   "id": "1",
-  "title": "Nio Announcement",
-  "message": "First Test Message",
+  "title": "Nio Update Note",
+  "message": "已更新至 v0.30.12 (210.3)",
   "level": "important"
 }
